@@ -20,6 +20,9 @@ Mail-5: mfalcon@123consultores.cl
 # TELEFONO
 Celular +56 9 4299 4534
 
+# SKYPE
+falconsoft.3d
+
 
 
 
