@@ -17,6 +17,12 @@ Mail-5: mfalcon@123sap.cl
 
 Mail-5: mfalcon@123consultores.cl
 
+Mail-6: marlon.optimizacion@gmail.com
+
+Mail-7: mfalcon@falconsolutions.cl
+
+Mail-8: marlon@business-intelligence.cl
+
 # TELEFONO
 Celular +56 9 4299 4534
 
