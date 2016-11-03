@@ -11,6 +11,6 @@ Mail-3: falconsoft.5d@gmail.com
 
 Mail-4: falconsoft.6d@gmail.com
 
--Tel: +56 9 4299 4534
+Tel: +56 9 4299 4534
 
 
